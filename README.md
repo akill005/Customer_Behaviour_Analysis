@@ -81,12 +81,6 @@ Created new features to enhance analysis:
 
 ---
 
-## 🎯 Future Improvements
-- Apply Machine Learning for customer segmentation  
-- Build predictive models for purchase behavior  
-- Automate data pipeline  
-
----
 
 ## 🤝 Conclusion
 This project demonstrates how raw data can be transformed into meaningful insights that support better decision-making and business understanding.
