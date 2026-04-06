@@ -3,7 +3,13 @@
 ## 📌 Project Overview
 This project focuses on analyzing customer shopping behavior using Python, SQL, and Power BI to derive meaningful business insights. The goal was to clean raw data, perform exploratory data analysis (EDA), and generate actionable insights through queries and visualization.
 
+
+The project follows an **end-to-end analytics workflow**:
+**Data Cleaning (Python) → Storage (MySQL) → Analysis (SQL) → Visualization (Power BI)**
+
+
 ---
+
 
 ## 📂 Dataset
 - **File:** `customer_shopping_behavior.csv`
