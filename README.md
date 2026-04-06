@@ -5,6 +5,7 @@ This project focuses on analyzing customer shopping behavior using Python, SQL, 
 
 
 The project follows an **end-to-end analytics workflow**:
+
 **Data Cleaning (Python) → Storage (MySQL) → Analysis (SQL) → Visualization (Power BI)**
 
 
